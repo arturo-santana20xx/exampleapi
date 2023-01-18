@@ -24,7 +24,7 @@ import com.bezkoder.spring.jpa.h2.repository.TutorialRepository;
 @CrossOrigin(origins = "http://localhost:8081")
 @RestController
 @RequestMapping("/api")
-public class TutorialController {//Test2fdsfds
+public class TutorialController {//Test2fdsfdssddf
 
 	@Autowired
 	TutorialRepository tutorialRepository;
